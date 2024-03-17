@@ -1,0 +1,25 @@
+#pragma once
+
+// Dumped with Dumper-7!
+
+
+namespace SDK
+{
+//---------------------------------------------------------------------------------------------------------------------
+// CLASSES
+//---------------------------------------------------------------------------------------------------------------------
+
+// 0x0 (0x8B8 - 0x8B8)
+// BlueprintGeneratedClass B_Prj_PG_PlaysetGrenade_WVillage_L_Shops_B.B_Prj_PG_PlaysetGrenade_WVillage_L_Shops_B_C
+class AB_Prj_PG_PlaysetGrenade_WVillage_L_Shops_B_C : public AB_Prj_Athena_PlaysetGrenade_C
+{
+public:
+
+	static class UClass* StaticClass();
+	static class AB_Prj_PG_PlaysetGrenade_WVillage_L_Shops_B_C* GetDefaultObj();
+
+};
+
+}
+
+
